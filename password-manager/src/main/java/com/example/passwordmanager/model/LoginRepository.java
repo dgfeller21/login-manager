@@ -1,6 +1,0 @@
-package com.example.passwordmanager.model;
-
-import org.springframework.data.repository.CrudRepository;
-
-public interface LoginRepository extends CrudRepository<Login, Integer> {
-}
